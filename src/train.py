@@ -55,6 +55,4 @@ if __name__ == "__main__":
     run(fold=2)
     run(fold=3)
     run(fold=4)
-    #df = pd.read_csv("/home/ben/programmes/course_ML/input/train_folds.csv")
-    #print(df.head())
-    #print(df.columns)
+    
